@@ -17,7 +17,5 @@ feaature2()
 {
   //Sample Code for Feature 2
 }
-
-
-
 }
+sample test for PR merge method on master with linear history enabled
